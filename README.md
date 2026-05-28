@@ -5,8 +5,8 @@ A simple Machine Learning project to classify iris flowers into different specie
 ---
 
 ## 📂 Project Files
-- `iris_flower_classification.ipynb` - Main Jupyter Notebook containing ML model
-- `iris.csv` - Dataset used for training and testing
+- `iris_flower.ipynb` - Main Jupyter Notebook containing ML model
+- `Iris.csv` - Dataset used for training and testing
 
 ---
 
