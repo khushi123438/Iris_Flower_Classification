@@ -42,6 +42,11 @@ A simple Machine Learning project to classify iris flowers into different specie
 
 ## ▶️ How to Run
 
-### Step 1: Install dependencies
-```bash
-pip install pandas numpy scikit-learn matplotlib
+Install dependencies:
+
+pip install pandas numpy scikit-learn
+
+Run the notebook or python file to train the model and predict employee turnover.
+
+## 📌 Author
+Khushi Pandey
